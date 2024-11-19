@@ -1,4 +1,4 @@
 # vardhaman_webathon
-by
+By
 
 Praharsha, Tejaswi and Poonam
